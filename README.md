@@ -15,7 +15,8 @@
 ## Configuración de IP estática 
 
 ### En la computadora con Windows
-### En la Jetson Nano
+
+
 
 Configurar una IP estática en el dispositivo que se utilizara matlab.
 Nos conectamos a la red que se esta conectando el TurtleBot2
@@ -43,6 +44,11 @@ Y estos también  se deben de mostrar en la terminal.
 <p align='center'>
     <img src=./IMÁGENES/s2.png alt="drawing" width="600"/>
 </p>
+
+### En la Jetson Nano
+
+
+
 
 ## Configuración en matlab
 
