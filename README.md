@@ -6,7 +6,7 @@
 
 1. [Comentarios generales](#Comentarios-generales)
 2. [Configuración de la IP estática](#Configuración-de-la-IP-estática)
-    1. [En la computadora](#En-la-computadora)
+    1. [En la computadoracon Windows](#En-la-computadora-con-Windows)
     2. [En la Jetson Nano](#En-la-Jetson-Nano)
 3. [Prueba de conexión](#Prueba-de-conexión)
 
