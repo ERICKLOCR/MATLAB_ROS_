@@ -1,6 +1,21 @@
 # Matlab_With_ROz
 
-## Configuración de IP estática en la computadora con Windows
+
+
+## Tabla de Contenidos
+
+1. [Comentarios generales](#Comentarios-generales)
+2. [Configuración de la IP estática](#Configuración-de-la-IP-estática)
+    1. [En la computadora](#En-la-computadora)
+    2. [En la Jetson Nano](#En-la-Jetson-Nano)
+3. [Prueba de conexión](#Prueba-de-conexión)
+
+
+   
+## Configuración de IP estática 
+
+### En la computadora con Windows
+### En la Jetson Nano
 
 Configurar una IP estática en el dispositivo que se utilizara matlab.
 Nos conectamos a la red que se esta conectando el TurtleBot2
