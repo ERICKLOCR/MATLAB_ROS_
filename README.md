@@ -62,11 +62,11 @@ que ejecutar en el **Command Window**
 
 
 
-´´´
+```
  setenv('ROS_IP','192.168.43.100')          %IP de la computadora
  rosinit('http://192.168.43.178:11311');    %Conexión al nodo maestro   
  rostopic list                              % Comando para revisar los topicos
-´´´
+```
 
 -> ver la Ip que nos puso por defecto en configuraciones e internet 
 <p align='center'>
