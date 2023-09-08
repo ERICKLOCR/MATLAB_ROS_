@@ -9,6 +9,7 @@
     1. [En la computadoracon Windows](#En-la-computadora-con-Windows)
     2. [En la Jetson Nano](#En-la-Jetson-Nano)
 3. [Prueba de conexión](#Prueba-de-conexión)
+3. [Gráficos generados](#Gráficos-generados)
 
 
 ## Comentarios-generales
@@ -67,7 +68,17 @@ que ejecutar en el **Command Window**
  rosinit('http://192.168.43.178:11311');    %Conexión al nodo maestro   
  rostopic list                              % Comando para revisar los topicos
 ```
+## Prueba de conexión
 
+Ejecutar en el **Command Window** de Matlab
+
+```
+rostopic list
+```
+
+Y nos debe de mostrar la lista de los tópicos 
+
+## Gráficos generados
 -> ver la Ip que nos puso por defecto en configuraciones e internet 
 <p align='center'>
     <img src=./IMÁGENES/W2.png alt="drawing" width="600"/>
