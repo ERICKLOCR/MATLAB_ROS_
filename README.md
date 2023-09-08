@@ -84,14 +84,6 @@ Y nos debe de mostrar la lista de los tópicos
     <img src=./IMÁGENES/W2.png alt="drawing" width="600"/>
 </p>
 
-En seguida ingresa a la ventana de matlab y 
-
-
-para asegurarnos que la comunicación fue establecida correctamente 
-
--> rostopic list 
-
-lo cual nos dara la lista de topicos
 
 
 
