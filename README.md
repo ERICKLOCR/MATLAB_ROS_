@@ -79,7 +79,9 @@ rostopic list
 Y nos debe de mostrar la lista de los tópicos 
 
 ## Gráficos generados
--> ver la Ip que nos puso por defecto en configuraciones e internet 
+
+A continuación se muestran los gráficos que se generaron cuando se ejecutó el script de MATLAB de control de punto. 
+
 <p align='center'>
     <img src=./IMÁGENES/W2.png alt="drawing" width="600"/>
 </p>
@@ -95,6 +97,7 @@ Y nos debe de mostrar la lista de los tópicos
 <p align='center'>
     <img src=./IMÁGENES/P2.png alt="drawing" width="600"/>
 </p>
+A continuación se muestran los gráficos que se generaron cuando se ejecutó el script de MATLAB de control de trayectoria.
 
 <p align='center'>
     <img src=./IMÁGENES/P3.png alt="drawing" width="600"/>
