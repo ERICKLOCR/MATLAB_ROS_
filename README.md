@@ -41,7 +41,7 @@ Posteriormente nos vamos a configuraciones de esa red y pulsamos en editar red y
 Aguardamos los cambios realizados y nos debe de mostrar en configuraciones de esa red los cambios realizados.
 
 <p align='center'>
-    <img src=./IMÁGENES/s3.png alt="drawing" width="400"/>
+    <img src=./IMÁGENES/s3.png alt="drawing" width="550"/>
 </p>
 
 Y estos también  se deben de mostrar en la terminal.
