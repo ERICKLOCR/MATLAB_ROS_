@@ -50,18 +50,22 @@ Y estos también  se deben de mostrar en la terminal.
 
 ### En la Jetson Nano
 
+Ir podemos seguir los mismos paso que la configuración de wifi entre la Jetson y la computadora con Ubuntu, en este caso se seguirán los pasos para la configuración de wifi de la Jetson en caso de aún no tener configurado.
 
+Para ello nos vamos al link de configuración de wifi Jetson.
 
 
 ## Configuración en matlab
 
 Primero se tiene que ingresar a Matlab y desde el equipo que se realize se tiene que 
-que 
+que ejecutar en el **Command Window**
 
 
 
 ´´´
-f
+ setenv('ROS_IP','192.168.43.100')          %IP de la computadora
+ rosinit('http://192.168.43.178:11311');    %Conexión al nodo maestro   
+ rostopic list                              % Comando para revisar los topicos
 ´´´
 
 -> ver la Ip que nos puso por defecto en configuraciones e internet 
