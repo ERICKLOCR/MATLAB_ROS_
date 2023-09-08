@@ -12,7 +12,7 @@
 3. [Gráficos generados](#Gráficos-generados)
 
 
-## Comentarios-generales
+## Comentarios generales
 Para poder crear la conexión entre la computadora con Matlab(Instalada en Windows en este caso) y la JETSON tenemos que tener claro que la IP cambian si es que no se tiene configurada una IP estática a lo que no deja conectar en la siguiente conexión que se desea establecer. Primeramente se configurarán una IP estática tanto para la JETSON como para la computadora.
 
    
@@ -80,7 +80,7 @@ Y nos debe de mostrar la lista de los tópicos
 
 ## Gráficos generados
 
-A continuación se muestran los gráficos que se generaron cuando se ejecutó el script de MATLAB de control de punto. 
+### A continuación se muestran los gráficos que se generaron cuando se ejecutó el script de MATLAB de control de punto. 
 
 
 
@@ -99,7 +99,7 @@ A continuación se muestran los gráficos que se generaron cuando se ejecutó el
     <img src=./IMÁGENES/P3.png alt="drawing" width="600"/>
 </p>
 
-A continuación se muestran los gráficos que se generaron cuando se ejecutó el script de MATLAB de control de trayectoria.
+### A continuación se muestran los gráficos que se generaron cuando se ejecutó el script de MATLAB de control de trayectoria.
 
 
 <p align='center'>
